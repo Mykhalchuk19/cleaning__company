@@ -1,8 +1,7 @@
-import '../style/app.sass';
-
-
+import '../styles/basic.sass';
 import './secondSlider.js';
 import './thirdSlider.js';
+
 
 function createFirstSlider() {
   const introContent = document.querySelector('div.intro__content');
